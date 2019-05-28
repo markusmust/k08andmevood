@@ -1,0 +1,20 @@
+Russia,16376870
+China,9388211
+United States,9147420
+Canada,9093510
+Brazil,8358140
+Australia,7682300
+India,2973190
+Argentina,2736690
+Kazakhstan,2699700
+Algeria,2381740
+DR Congo,2267050
+Saudi Arabia,2149690
+Mexico,1943950
+Indonesia,1811570
+Sudan,1765048
+Libya,1759540
+Iran,1628550
+Mongolia,1553560
+Peru,1280000
+Niger,1266700
